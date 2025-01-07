@@ -15,3 +15,7 @@ label04-last.csv is impersonating leadership acquaintances.
 
 使用评测数据进行科学研究，发表论文或其他材料时应注明来源信息，如：
 Li, J.; Zhang, C.; Jiang, L. Innovative Telecom Fraud Detection: A New Dataset and an Advanced Model with RoBERTa and Dual Loss Functions. Appl. Sci. 2024, 14, 11628. https://doi.org/10.3390/app142411628   
+
+## License
+This project is licensed under the GNU General Public License v3.0.  
+See the [LICENSE](./LICENSE) file for more details.
